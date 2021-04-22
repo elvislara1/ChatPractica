@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/todo"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="16dp"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/autor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="juan"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/mensaje"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="HOLA que tal"/>
+
+        <ImageView
+            android:id="@+id/adjunto"
+            android:layout_width="128dp"
+            android:layout_height="128dp"/>
+
+        <TextView
+            android:id="@+id/fecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="24/2/2424 34:2424"/>
+    </LinearLayout>
+
+</LinearLayout>

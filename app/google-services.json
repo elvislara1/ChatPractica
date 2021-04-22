@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231890435837",
+    "project_id": "chatpractica-aa715",
+    "storage_bucket": "chatpractica-aa715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231890435837:android:1b741f3b6c1730e0520894",
+        "android_client_info": {
+          "package_name": "com.example.chatpractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231890435837-3o66t4fmqsmontio6ar3f52qcmfdjkdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQPff7o108OMM3OnH86MEVeTm-vEsRdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231890435837-3o66t4fmqsmontio6ar3f52qcmfdjkdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
